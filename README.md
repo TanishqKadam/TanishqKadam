@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Comprehensive Web Development**
 
-- 💬 Ask me about **java,mysql,j2EE,springboot**
+- 💬 Ask me about **java, mysql, j2EE, springboot**
 
-- 📫 How to reach me **kadamtanishq14gmail.com**
+- 📫 How to reach me **kadamtanishq14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
